@@ -1,0 +1,6 @@
+# Local tool settings (not part of the app)
+.claude/
+
+# Computer junk files
+.DS_Store
+Thumbs.db
